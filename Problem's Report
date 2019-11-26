@@ -1,0 +1,9 @@
+We suppose that we have N containers that contain a refreshment drink.Every container has a capacity Bi ml and right now contains Ai
+ml(Ai<=Bi).You are asked to make a programm that reads an integer number N (2<=N<=100000) from the user and then also read the numbers Ai
+(0<=Ai<=10^9) and Bi(0<=Bi<=10^9)( for every i in (1,N) ).The programm should prints:
+
+"Wrong Input":if there is a value that is out of limits
+
+"Yes":if the whole quantity of the refreshment drink can be poured in any two containters 
+
+"No":in every other situation
