@@ -10,7 +10,7 @@ int main(void)
 	int maxElement,population,A[N];
 
 	scanf("%d", &population);
-	if (population < 1 || population>100)//checking if population of Berland<1 or population of Berland<=100000 and if TRUE prints "Wrong Input" and programm finishes
+	if (population < 1 || population>100)//checking if population of Berland<1 or population of Berland>100000 and if TRUE prints "Wrong Input" and programm finishes
 	{
 		printf("Wrong Input");
 		exit(0);
