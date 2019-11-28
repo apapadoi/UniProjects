@@ -11,7 +11,7 @@ int main(void)
 	int A[N], B[N];
 	
 	scanf("%d", &userChoice);//reading user's choice about array A,B size
-	if (userChoice < 2 || userChoice>100000)//checking if userChoice>=2 && userchoice<=100000 and if TRUE prints "Wrong Input" and programm finishes
+	if (userChoice < 2 || userChoice>100000)//checking if userChoice>=2 or userchoice<=100000 and if TRUE prints "Wrong Input" and programm finishes
 	{
 		printf("Wrong Input");
 		exit(0);
