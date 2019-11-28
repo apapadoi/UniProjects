@@ -18,7 +18,7 @@ int main(void)
 
 	readArray(A, population);//reading array's A elements
 	maxElement = maxArrayElement(A, population);//finds array's A max element
-	printf("%d", totalBurles(A, population, maxElement));//calculatin and printing total Burles needed
+	printf("%d", totalBurles(A, population, maxElement));//calculating and printing total Burles needed
 
 	return 0;
 }
