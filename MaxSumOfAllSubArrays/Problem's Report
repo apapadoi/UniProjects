@@ -1,0 +1,2 @@
+Read the size of an array(2<=size<=1000) from the user and then print the max sum between all sub arrays that can be produced by this
+array(including empty array and itself)
