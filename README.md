@@ -1,2 +1,2 @@
 # UniProjects
-University Projects In C from my 1st year in CSD AUTH
+University Projects In C from my 1st semester in CSD AUTH
